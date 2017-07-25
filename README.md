@@ -1,0 +1,3 @@
+# studentbarter-web-application
+
+The main objective of this project is to create an online platform for University students to exchange items and services. The interactions encompass a wide variety of items and services including textbooks, games, furniture, tutoring, and rides. Student Barter Web App will provide a platform that is similar to Craigslist, but one that is exclusive to students. Students will be able to post the items that they wish to exchange, lend, rent, or sell. In addition, students will have the option to borrow or purchase items posted in the portal by other students. This application will give students the option to rate the quality of the transaction provide by the other party. 
